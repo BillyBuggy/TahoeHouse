@@ -1,35 +1,12 @@
-<html> <head> <title> Tahoe House Calendar </title> </head> <body>
-<font size="+2">
-<B> Tahoe House Calendar </B> </font>  &nbsp;&nbsp;
-                                       Last update: (Mon Nov 30 12:03 PST 2015)
-<!- COMMENT: Use 'cdate' ->
-<pre>
-<B>
-   ********************** HOT NEWS ****************************************
-   *   1. We've got a new (and now "normal") refrigerator on the bottom.  *
-   *   2. The bottom kitchen area  has a beautiful new tile floor.        *
-   *   3. The top left living room has a beautiful new tile floor. Yea.   *
-   ************************************************************************</B>
-<!-
-   * Nothing hot right now... :-(                    *
-   * Nothing hot right now...                        *
-   *        H-A-P-P-Y  N-E-W  Y-E-A-R !!!            *
-   *                H-A-P-P-Y  N-E-W  Y-E-A-R !!!                *
-   * What's a matter?  Don't you all believe in summer in Tahoe? *
-2010 Top           $95 $115
-     Bottom        $75  $95 
-     Entire House $165 $200
-     ###################################################################
-     ##  Use tahoecal-yearloop to add more years, -Bill               ##
-     ##  Use cal-Tahoe         to add more years, -Bill  (06/22/2015) ##
-     ###################################################################
-Ok, you're booked top bottom whole house for 2 nights, thanks. Please verify at
-    http://tinyurl.com/TahoeHouseCalendar
-If that fails, try its target url:
-    https://www.dropbox.com/s/tyabwzbqky4trtp/TahoeHouseMasterCalendar.html
-       -Bill
-*->
-<B> CALENDAR EXAMPLES: </B>
+Tahoe House Calendar               Last update:  (Mon Nov 30 12:03 PST 2015)
+
+  *********************** HOT NEWS *****************************************
+  **   1. We've got a new (and now "normal") refrigerator on the bottom.  **
+  **   2. The bottom kitchen area  has a beautiful new tile floor.        **
+  **   3. The top left living room has a beautiful new tile floor. Yea.   **
+  **************************************************************************
+
+ CALENDAR EXAMPLES: 
    +------------+
    | 14 bob     |  Means bob on top, mary on bottom
    |    mary    |
@@ -41,14 +18,11 @@ If that fails, try its target url:
    |    biff    |
    +------------+
 
-<B> INSTRUCTIONS     GO TO: <A href="#2016">2016</A>, <A href="#2017">2017</A>, <A href="#2018">2018</A>
-</B>
+ INSTRUCTIONS
    +--------------------------------------------------------------+
    | - Your name appears on the day of the NIGHT that you sleep.  |
    | - Email nye2@email.com with any problems, thanks.            |
-   +--------------------------------------------------------------+
    | - Send me mail if you don't know the URL of the info page.   |
-   | - You are now at <B>http://home.comcast.net/~nye22/calendar</B>     |
    +--------------------------------------------------------------+
 
                               December 2015
@@ -514,8 +488,3 @@ Sunday     Monday     Tuesday    Wednesday  Thursday   Friday     Saturday
                                                                               
 30         31         
                                                                               
-
-(nyetahoe nyeword)
-</pre>
-</body>
-</html>
